@@ -13,7 +13,7 @@ Welcome to AwesomeApp! This is a cutting-edge application that helps users organ
 
 ## Features
 
-- Task Management: Create, update, and delete tasks easily.
+- Task Management: Create, update, and delete task easily.
 - Calendar Integration: Sync tasks with your calendar for better organization.
 - Priority Levels: Assign priority levels to tasks for better focus.
 - Reminders: Set reminders for important tasks to stay on track.
